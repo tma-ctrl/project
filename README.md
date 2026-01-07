@@ -1,2 +1,3 @@
 # project
-this is git of project
+
+this is wordpress of project
